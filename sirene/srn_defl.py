@@ -102,6 +102,7 @@ class coef:
         self.reference_year = reference_year #base_year
         self.defl_df = defl.deflators_df(self.reference_year) #dataframe
         self.defl_num = self.defl_df[self.defl_df['year']==self.year]['def_cum_pro'].values[0]
+        scr_67['sum_carteira_ativa'] = scr_67['sum_carteira_ativa'] / self.defl_num #trasnform nominal to real
         self.init()
 
     def init(self):
