@@ -250,11 +250,11 @@ Saúde pública",1999,0.0,17.482948358456674,0.0,0.0,0.0
 Saúde privada",1999,0.0,31.080797081700755,0.0,0.0,0.0
 RESIDENCIAL,1999,0.0,38548.62347378763,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2000,8983.803198634832,0.0,0.0,0.0,149964.5327298776
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2000,8983.803198634832,0.0,50623.31630966792,0.0,149964.5327298776
 "0192
-Pecuária, inclusive o apoio à pecuária",2000,3902.6068907190697,904.5183,0.0,0.0,1043442.5402011792
+Pecuária, inclusive o apoio à pecuária",2000,3902.6068907190697,904.5183,315868.14196583175,0.0,1043442.5402011792
 "0280
-Produção florestal; pesca e aquicultura",2000,1856.822923380063,0.0,0.0,0.0,-18955.00005062515
+Produção florestal; pesca e aquicultura",2000,1856.822923380063,0.0,205.17487361674648,0.0,-18955.00005062515
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2000,1523.3039205264804,0.0,0.0,0.0,0.0
 "0680
@@ -326,13 +326,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2000,137.6
 "3500
 Energia elétrica, gás natural e outras utilidades",2000,6558.184982267405,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2000,1715.271648036284,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2000,670.3725052666017,0.0,0.0,0.0,0.0
 "4180
 Construção",2000,1656.344190160364,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2000,109.07417966374709,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2000,66.44517033755854,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2000,1992.5138521299139,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2000,1213.787925912959,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2000,116401.06368602319,0.0,0.0,0.0,0.0
 "5000
@@ -340,58 +340,58 @@ Transporte aquaviário",2000,2990.8068026158635,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2000,8398.694543991132,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2000,217.79119766256701,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2000,132.6727670226056,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2000,93.99416381358795,0.0,0.0,0.0,0.0
+Alojamento",2000,57.25881454789461,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2000,171.56401657539723,0.0,0.0,0.0,0.0
+Alimentação",2000,104.51236342359456,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2000,7.748338505095961,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2000,4.720087498171501,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2000,26.276944719376903,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2000,16.007235380656418,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2000,132.9439723823731,0.0,0.0,0.0,0.0
+Telecomunicações",2000,80.98603095187372,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2000,58.64368437400927,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2000,35.72421639535073,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2000,158.6665306567449,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2000,96.65554844288151,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2000,60.22762137133262,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2000,36.6891098643235,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2000,89.77551681947098,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2000,54.68892386448754,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2000,80.3467564834415,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2000,48.94516683114702,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2000,19.985767434796177,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2000,12.17481282578222,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2000,21.39223240825158,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2000,13.031594926029495,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2000,567.315982869666,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2000,345.5942298461602,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2000,9.281884739657867,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2000,5.654284217231077,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2000,1801.034124018794,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2000,703.8906981126632,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2000,508.1373564137953,0.0,0.0,0.0,0.0
+Educação pública",2000,198.59321584930572,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2000,185.27073837612747,0.0,0.0,0.0,0.0
+Educação privada",2000,112.86214398235454,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2000,417.0563356214491,18.584614067565894,0.0,0.0,0.0
+Saúde pública",2000,162.99639819030304,18.584614067565894,0.0,0.0,0.0
 "8692
-Saúde privada",2000,140.31567207150405,31.84362660651192,0.0,0.0,0.0
+Saúde privada",2000,85.47667982066767,31.84362660651192,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2000,73.35757131771199,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2000,44.68753592079523,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2000,225.01283971555,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2000,137.07200465892416,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2000,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2000,23566.00416147837,40645.57888675783,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2001,9950.411733854695,0.0,0.0,0.0,146950.0018443331
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2001,9950.411733854695,0.0,50943.91007309218,0.0,146950.0018443331
 "0192
-Pecuária, inclusive o apoio à pecuária",2001,4236.232385463644,950.1534,0.0,0.0,1008101.4162854652
+Pecuária, inclusive o apoio à pecuária",2001,4236.232385463644,950.1534,329516.7550004934,0.0,1008101.4162854652
 "0280
-Produção florestal; pesca e aquicultura",2001,1966.0397092768935,0.0,0.0,0.0,-35364.476474796444
+Produção florestal; pesca e aquicultura",2001,1966.0397092768935,0.0,197.26977798188886,0.0,-35364.476474796444
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2001,1508.3629393581548,0.0,0.0,0.0,0.0
 "0680
@@ -463,13 +463,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2001,128.1
 "3500
 Energia elétrica, gás natural e outras utilidades",2001,6922.446088847575,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2001,1797.347959545207,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2001,698.9541188183217,0.0,0.0,0.0,0.0
 "4180
 Construção",2001,1445.0518042159715,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2001,111.91578313553516,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2001,68.39388345665837,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2001,2069.5884517719574,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2001,1264.765231569859,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2001,118370.00965085396,0.0,0.0,0.0,0.0
 "5000
@@ -477,58 +477,58 @@ Transporte aquaviário",2001,3306.541907285518,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2001,8634.374284459473,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2001,216.50345248102764,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2001,132.30941590266139,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2001,96.59660430511668,0.0,0.0,0.0,0.0
+Alojamento",2001,59.03203919997752,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2001,191.0030814121594,0.0,0.0,0.0,0.0
+Alimentação",2001,116.72564962660745,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2001,7.9566111325298845,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2001,4.862437801549118,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2001,27.00445369320914,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2001,16.502940040792502,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2001,136.52277773002825,0.0,0.0,0.0,0.0
+Telecomunicações",2001,83.43169021959038,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2001,60.22249707614136,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2001,36.80312401966078,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2001,162.93817110154484,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2001,99.57464418994641,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2001,61.8701421353129,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2001,37.810031544209366,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2001,92.19246465977196,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2001,56.34058491898687,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2001,140.4045255878914,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2001,85.80390085119815,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2001,20.732256007905708,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2001,12.66987963155379,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2001,23.47000394813529,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2001,14.3429699527912,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2001,582.4501642700966,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2001,355.9464763442458,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2001,9.460846663520435,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2001,5.78170501047656,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2001,1893.276094145745,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2001,736.2587288875764,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2001,532.1647531812624,0.0,0.0,0.0,0.0
+Educação pública",2001,206.94865685334395,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2001,190.23887325159754,0.0,0.0,0.0,0.0
+Educação privada",2001,116.25862734962621,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2001,431.6422452878069,20.425539581447325,0.0,0.0,0.0
+Saúde pública",2001,167.85738320599944,20.425539581447325,0.0,0.0,0.0
 "8692
-Saúde privada",2001,145.08496292286443,36.0296864167908,0.0,0.0,0.0
+Saúde privada",2001,88.6642059542475,36.0296864167908,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2001,75.34650209884829,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2001,46.04569381581045,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2001,232.92842677482773,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2001,142.3470329943304,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2001,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2001,23877.552780891237,42984.02568757425,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2002,9622.480360026011,0.0,0.0,0.0,140599.2678462509
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2002,9622.480360026011,0.0,54713.168385681216,0.0,140599.2678462509
 "0192
-Pecuária, inclusive o apoio à pecuária",2002,4185.265748216871,1017.576,0.0,0.0,1223308.980355184
+Pecuária, inclusive o apoio à pecuária",2002,4185.265748216871,1017.576,336774.240645118,0.0,1223308.980355184
 "0280
-Produção florestal; pesca e aquicultura",2002,2031.5843463884155,0.0,0.0,0.0,-35465.72988998624
+Produção florestal; pesca e aquicultura",2002,2031.5843463884155,0.0,223.76985427913,0.0,-35465.72988998624
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2002,1136.0598064628903,0.0,0.0,0.0,0.0
 "0680
@@ -600,13 +600,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2002,119.7
 "3500
 Energia elétrica, gás natural e outras utilidades",2002,5675.98807047648,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2002,1853.1262017665108,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2002,720.062421385417,0.0,0.0,0.0,0.0
 "4180
 Construção",2002,1450.8621911612017,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2002,118.36576635961288,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2002,72.37281657950813,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2002,2210.393713300532,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2002,1351.5091711160571,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2002,121590.27233580573,0.0,0.0,0.0,0.0
 "5000
@@ -614,58 +614,58 @@ Transporte aquaviário",2002,3348.5390390748244,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2002,8270.839080490026,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2002,253.3953685527725,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2002,154.93446369155623,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2002,101.73451611956116,0.0,0.0,0.0,0.0
+Alojamento",2002,62.20390997644274,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2002,193.89870739730455,0.0,0.0,0.0,0.0
+Alimentação",2002,118.55620097819924,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2002,8.383436359005756,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2002,5.125915377195783,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2002,28.443901844113853,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2002,17.39155969062335,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2002,143.81020849358282,0.0,0.0,0.0,0.0
+Telecomunicações",2002,87.93040556968123,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2002,63.43611701855411,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2002,38.78697872450497,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2002,171.6329509837233,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2002,104.94216750818106,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2002,65.16338590864936,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2002,39.843089105158136,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2002,97.11208037408285,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2002,59.377597059736004,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2002,177.04702825479382,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2002,108.252516719253,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2002,21.73694019133038,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2002,13.290697419111757,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2002,24.434264748050545,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2002,14.939932509651577,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2002,613.982580904242,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2002,375.4096313269631,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2002,10.448629414458026,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2002,6.388643975170873,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2002,2075.0462941693945,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2002,806.2930941465968,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2002,582.5895569205646,0.0,0.0,0.0,0.0
+Educação pública",2002,226.37467789845383,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2002,200.52494360097188,0.0,0.0,0.0,0.0
+Educação privada",2002,122.60770499096876,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2002,468.48508128909526,23.730094523187574,0.0,0.0,0.0
+Saúde pública",2002,182.0375221581771,23.730094523187574,0.0,0.0,0.0
 "8692
-Saúde privada",2002,151.12629740760838,38.91566392202128,0.0,0.0,0.0
+Saúde privada",2002,92.40370876653198,38.91566392202128,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2002,79.4070582781507,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2002,48.5521501751016,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2002,244.7692386344645,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2002,149.6601572973239,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2002,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2002,24091.642002787285,44628.611617319,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2003,9576.26565178403,0.0,0.0,0.0,288089.6088047095
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2003,9576.26565178403,0.0,62817.75583149608,0.0,288089.6088047095
 "0192
-Pecuária, inclusive o apoio à pecuária",2003,4252.716730010663,1059.5823,0.0,0.0,2156997.0239641466
+Pecuária, inclusive o apoio à pecuária",2003,4252.716730010663,1059.5823,354910.13214691274,0.0,2156997.0239641466
 "0280
-Produção florestal; pesca e aquicultura",2003,2129.1794320332197,0.0,0.0,0.0,-34248.64189438887
+Produção florestal; pesca e aquicultura",2003,2129.1794320332197,0.0,268.0779127443488,0.0,-34248.64189438887
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2003,1190.234777396061,0.0,0.0,0.0,0.0
 "0680
@@ -737,13 +737,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2003,115.4
 "3500
 Energia elétrica, gás natural e outras utilidades",2003,5416.0021780899015,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2003,1415.5805797047046,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2003,549.764251128977,0.0,0.0,0.0,0.0
 "4180
 Construção",2003,1012.8661213887852,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2003,97.60846518057502,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2003,59.700595057744074,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2003,1710.8019099118162,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2003,1046.3835473563665,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2003,121712.82000640182,0.0,0.0,0.0,0.0
 "5000
@@ -751,58 +751,58 @@ Transporte aquaviário",2003,3085.0830337655166,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2003,5918.167754386975,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2003,128.33007138469625,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2003,78.4909547680689,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2003,84.74300321251282,0.0,0.0,0.0,0.0
+Alojamento",2003,51.8316491239549,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2003,159.60554846466607,0.0,0.0,0.0,0.0
+Alimentação",2003,97.6200803919048,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2003,6.984071690623951,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2003,4.2716913444426545,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2003,23.693306926516446,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2003,14.491617297556894,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2003,119.8041510984254,0.0,0.0,0.0,0.0
+Telecomunicações",2003,73.27621736221366,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2003,52.84677207135895,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2003,32.32284959818188,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2003,142.9823871142466,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2003,87.4528000999242,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2003,54.283005356340354,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2003,33.20129781060386,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2003,80.90123131911741,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2003,49.48189321203153,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2003,154.68072012800693,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2003,94.6078910114872,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2003,18.081340335838235,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2003,11.059151227243724,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2003,18.858897280045106,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2003,11.534731005847492,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2003,509.9156587545751,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2003,311.8814356991651,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2003,8.720884568205113,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2003,5.3339840677605,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2003,1667.279956718806,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2003,647.5158885120309,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2003,469.9095368701648,0.0,0.0,0.0,0.0
+Educação pública",2003,182.49718054883257,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2003,167.0560368882506,0.0,0.0,0.0,0.0
+Educação privada",2003,102.17704777722284,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2003,383.26289088317037,27.23039684332165,0.0,0.0,0.0
+Saúde pública",2003,148.846515142124,27.23039684332165,0.0,0.0,0.0
 "8692
-Saúde privada",2003,126.31093555106368,42.22315276629145,0.0,0.0,0.0
+Saúde privada",2003,77.25598390209662,42.22315276629145,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2003,66.1506317544898,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2003,40.45993420634868,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2003,203.673935185476,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2003,124.57377652471436,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2003,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2003,23226.39000223999,46271.25086414184,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2004,9361.371379261964,0.0,0.0,0.0,362721.349869202
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2004,9361.371379261964,0.0,63819.434634947494,0.0,362721.349869202
 "0192
-Pecuária, inclusive o apoio à pecuária",2004,4233.023554171865,1134.651,0.0,0.0,2268110.7698441055
+Pecuária, inclusive o apoio à pecuária",2004,4233.023554171865,1134.651,370419.3152441401,0.0,2268110.7698441055
 "0280
-Produção florestal; pesca e aquicultura",2004,2179.177802291348,0.0,0.0,0.0,-26481.782437146
+Produção florestal; pesca e aquicultura",2004,2179.177802291348,0.0,270.9835650169487,0.0,-26481.782437146
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2004,1193.8780542628324,0.0,0.0,0.0,0.0
 "0680
@@ -874,13 +874,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2004,117.1
 "3500
 Energia elétrica, gás natural e outras utilidades",2004,6131.286837117902,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2004,1409.937366079315,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2004,539.2461711423606,0.0,0.0,0.0,0.0
 "4180
 Construção",2004,992.2696332736455,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2004,101.67682993148256,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2004,62.789399501214376,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2004,1786.152195959228,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2004,1103.0184937672755,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2004,129261.85650129347,0.0,0.0,0.0,0.0
 "5000
@@ -888,58 +888,58 @@ Transporte aquaviário",2004,3543.643612307988,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2004,6314.263959515845,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2004,137.02336643301607,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2004,84.61726139339409,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2004,88.15902588328292,0.0,0.0,0.0,0.0
+Alojamento",2004,54.441629420916755,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2004,166.39287676722103,0.0,0.0,0.0,0.0
+Alimentação",2004,102.75407701571558,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2004,7.265787224307033,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2004,4.486906378033867,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2004,24.650368964467884,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2004,15.222562168837495,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2004,124.61528937512358,0.0,0.0,0.0,0.0
+Telecomunicações",2004,76.9547909175258,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2004,54.9684278313211,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2004,33.94514342530473,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2004,148.72274538597702,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2004,91.84208320863547,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2004,56.464189991230334,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2004,34.86883477052693,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2004,84.1491981615286,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2004,51.965404749849206,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2004,162.31721102014336,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2004,100.23719480175272,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2004,18.813224720659512,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2004,11.61789843062221,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2004,19.783981732047078,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2004,12.217378664690225,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2004,530.4340213461094,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2004,327.5636514019994,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2004,9.356292132795476,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2004,5.777874516466037,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2004,1790.5632676293947,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2004,684.8207654374544,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2004,502.4445557761683,0.0,0.0,0.0,0.0
+Educação pública",2004,192.16548864652287,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2004,173.8423178448765,0.0,0.0,0.0,0.0
+Educação privada",2004,107.35439679555991,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2004,404.3191108616465,31.631547289336385,0.0,0.0,0.0
+Saúde pública",2004,154.6363247738492,31.631547289336385,0.0,0.0,0.0
 "8692
-Saúde privada",2004,131.5329149293022,45.99753199710165,0.0,0.0,0.0
+Saúde privada",2004,81.22669391463765,45.99753199710165,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2004,68.83673222816645,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2004,42.50936111152457,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2004,212.10730248423832,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2004,130.9845139918552,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2004,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2004,23667.055094537693,46827.66738520109,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2005,9282.473259486218,0.0,0.0,0.0,185675.84197795202
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2005,9282.473259486218,0.0,59318.43012263352,0.0,185675.84197795202
 "0192
-Pecuária, inclusive o apoio à pecuária",2005,4233.4583558699305,1205.6835,0.0,0.0,1407204.7666142369
+Pecuária, inclusive o apoio à pecuária",2005,4233.4583558699305,1205.6835,373997.75284341146,0.0,1407204.7666142369
 "0280
-Produção florestal; pesca e aquicultura",2005,2186.99726256798,0.0,0.0,0.0,-29618.32429673033
+Produção florestal; pesca e aquicultura",2005,2186.99726256798,0.0,236.3664638891482,0.0,-29618.32429673033
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2005,1336.674267766053,0.0,0.0,0.0,0.0
 "0680
@@ -1011,13 +1011,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2005,122.3
 "3500
 Energia elétrica, gás natural e outras utilidades",2005,6632.975482627809,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2005,1328.5267087767368,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2005,510.0022015803927,0.0,0.0,0.0,0.0
 "4180
 Construção",2005,1029.0806239469612,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2005,96.89800661458118,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2005,59.70026239482779,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2005,1662.1842871304723,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2005,1024.095763754509,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2005,129898.19174657622,0.0,0.0,0.0,0.0
 "5000
@@ -1025,58 +1025,58 @@ Transporte aquaviário",2005,3634.1967362632076,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2005,5937.945120636402,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2005,117.40187591397108,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2005,72.33299262375525,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2005,84.45727186596454,0.0,0.0,0.0,0.0
+Alojamento",2005,52.03534590350029,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2005,160.52370252026185,0.0,0.0,0.0,0.0
+Alimentação",2005,98.90097325910129,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2005,6.959019994065594,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2005,4.287552800844216,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2005,23.608216748893778,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2005,14.545363561388665,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2005,119.43153708107282,0.0,0.0,0.0,0.0
+Telecomunicações",2005,73.58349620460324,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2005,52.68396819066664,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2005,32.45935427231239,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2005,142.5419044398948,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2005,87.8221275610807,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2005,54.114286236606425,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2005,33.34059389358044,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2005,80.65200068694648,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2005,49.69086333045353,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2005,156.88034623336065,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2005,96.65624879133172,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2005,18.043811747276692,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2005,11.117053214520876,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2005,18.60218866222336,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2005,11.461077302344721,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2005,508.1984653726695,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2005,313.1084197848883,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2005,7.932005692814972,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2005,4.887023352935138,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2005,1681.5038084091718,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2005,645.5050083593088,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2005,473.96798010926335,0.0,0.0,0.0,0.0
+Educação pública",2005,181.94945704697813,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2005,166.32922976232376,0.0,0.0,0.0,0.0
+Educação privada",2005,102.477842503378,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2005,387.1115827837875,35.1344980382239,0.0,0.0,0.0
+Saúde pública",2005,148.60654149647246,35.1344980382239,0.0,0.0,0.0
 "8692
-Saúde privada",2005,125.12475342882543,50.3916519949799,0.0,0.0,0.0
+Saúde privada",2005,77.09116908360555,50.3916519949799,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2005,65.8693278379987,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2005,40.58304492620706,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2005,202.6738739180688,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2005,124.87030307663933,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2005,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2005,23547.632547534307,48561.960167664336,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2006,9355.108323610084,0.0,0.0,0.0,162241.03362654118
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2006,9355.108323610084,0.0,60600.48913881729,0.0,162241.03362654118
 "0192
-Pecuária, inclusive o apoio à pecuária",2006,4287.502434044609,1260.5082,0.0,0.0,1069717.4888549016
+Pecuária, inclusive o apoio à pecuária",2006,4287.502434044609,1260.5082,372909.27853623964,0.0,1069717.4888549016
 "0280
-Produção florestal; pesca e aquicultura",2006,2220.171289037555,0.0,0.0,0.0,-36192.08997253781
+Produção florestal; pesca e aquicultura",2006,2220.171289037555,0.0,241.68036663973263,0.0,-36192.08997253781
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2006,1211.2665222702287,0.0,0.0,0.0,0.0
 "0680
@@ -1148,13 +1148,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2006,124.3
 "3500
 Energia elétrica, gás natural e outras utilidades",2006,6215.843893796325,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2006,1327.3000717600116,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2006,499.9001732725224,0.0,0.0,0.0,0.0
 "4180
 Construção",2006,918.2281087727338,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2006,96.68106242496319,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2006,60.26813599882091,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2006,1652.1733602068498,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2006,1029.9163690289088,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2006,134458.01363578739,0.0,0.0,0.0,0.0
 "5000
@@ -1162,58 +1162,58 @@ Transporte aquaviário",2006,3510.651194312674,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2006,6201.790383283172,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2006,114.70986677175081,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2006,71.50676334749781,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2006,84.29313535422487,0.0,0.0,0.0,0.0
+Alojamento",2006,52.54586594182618,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2006,158.46023672102038,0.0,0.0,0.0,0.0
+Alimentação",2006,98.77945957120515,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2006,6.946207649816946,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2006,4.330061925417214,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2006,23.562138035899373,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2006,14.687945125475952,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2006,119.2132024500679,0.0,0.0,0.0,0.0
+Telecomunicações",2006,74.3140106025619,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2006,52.58769818712822,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2006,32.78162720508601,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2006,142.28143602576287,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2006,88.69407018735994,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2006,54.01275158994396,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2006,33.669963660357574,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2006,80.5046243852333,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2006,50.18421942506992,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2006,169.53680595266277,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2006,105.68426764953065,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2006,17.985881226319076,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2006,11.211870335493476,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2006,18.329674512155282,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2006,11.426180976963096,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2006,507.2251493838457,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2006,316.18926724986807,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2006,7.896812829643545,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2006,4.922641287103875,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2006,1675.6753806276845,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2006,631.1085420296264,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2006,473.3778259112971,0.0,0.0,0.0,0.0
+Educação pública",2006,178.28798644050286,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2006,166.01953154592957,0.0,0.0,0.0,0.0
+Educação privada",2006,103.49170204285156,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2006,388.6093036904738,38.40033503707156,0.0,0.0,0.0
+Saúde pública",2006,146.3616723779604,38.40033503707156,0.0,0.0,0.0
 "8692
-Saúde privada",2006,124.73834275100793,55.1053114070723,0.0,0.0,0.0
+Saúde privada",2006,77.75822086171232,55.1053114070723,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2006,65.74424801292491,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2006,40.98303412272084,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2006,202.06041597231572,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2006,125.95853132302281,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2006,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2006,23607.65357518345,50269.34500534478,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2007,9877.404204565202,0.0,0.0,0.0,140188.10430722433
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2007,9877.404204565202,0.0,67769.23331170232,0.0,140188.10430722433
 "0192
-Pecuária, inclusive o apoio à pecuária",2007,4526.9516129770645,1313.6634,0.0,0.0,745774.4541035083
+Pecuária, inclusive o apoio à pecuária",2007,4526.9516129770645,1313.6634,356222.000301192,0.0,745774.4541035083
 "0280
-Produção florestal; pesca e aquicultura",2007,2335.4912186188726,0.0,0.0,0.0,-40546.976116664795
+Produção florestal; pesca e aquicultura",2007,2335.4912186188726,0.0,293.13390413730735,0.0,-40546.976116664795
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2007,1012.2732758106176,0.0,0.0,0.0,0.0
 "0680
@@ -1285,13 +1285,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2007,138.3
 "3500
 Energia elétrica, gás natural e outras utilidades",2007,6210.0265161465095,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2007,1424.0890700451703,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2007,528.3869065351874,0.0,0.0,0.0,0.0
 "4180
 Construção",2007,1087.0273226277136,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2007,102.48431008112867,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2007,64.45904276379517,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2007,1742.6032289301359,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2007,1096.036417330762,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2007,139110.2855364626,0.0,0.0,0.0,0.0
 "5000
@@ -1299,58 +1299,58 @@ Transporte aquaviário",2007,4323.46181117507,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2007,6750.889805424852,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2007,121.09487745003128,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2007,76.1644380281136,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2007,89.35056218659308,0.0,0.0,0.0,0.0
+Alojamento",2007,56.1983751892894,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2007,164.07202841538725,0.0,0.0,0.0,0.0
+Alimentação",2007,103.19556122881586,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2007,7.364571624402114,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2007,4.632057696427635,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2007,24.975506254805808,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2007,15.708718968313626,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2007,126.3953990027203,0.0,0.0,0.0,0.0
+Telecomunicações",2007,79.49828049789973,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2007,55.75598809135633,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2007,35.06856432826962,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2007,150.85357081887383,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2007,94.88161421770195,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2007,57.261088408971666,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2007,36.01521973005911,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2007,85.35484596701461,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2007,53.68520958895596,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2007,176.22826366798918,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2007,110.84140757713908,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2007,19.014045227270586,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2007,11.959168710284908,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2007,18.985837846002084,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2007,11.941427255090435,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2007,537.7784905174598,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2007,338.2438413282275,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2007,8.344707434881068,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2007,5.248528803780325,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2007,1753.748195672305,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2007,650.7019844787962,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2007,495.32265970033757,0.0,0.0,0.0,0.0
+Educação pública",2007,183.78204945252563,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2007,176.01407314627295,0.0,0.0,0.0,0.0
+Educação privada",2007,110.70668923841994,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2007,406.35975667331724,42.34968921318828,0.0,0.0,0.0
+Saúde pública",2007,150.77369757651118,42.34968921318828,0.0,0.0,0.0
 "8692
-Saúde privada",2007,132.18483231727416,57.03458983964424,0.0,0.0,0.0
+Saúde privada",2007,83.13963134765956,57.03458983964424,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2007,69.69660037945536,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2007,43.836721355630345,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2007,213.70685432310393,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2007,134.41412886347442,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2007,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2007,23687.611672822597,50300.44945372541,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2008,10817.90819647277,0.0,0.0,0.0,145487.18143581037
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2008,10817.90819647277,0.0,69438.88363163511,0.0,145487.18143581037
 "0192
-Pecuária, inclusive o apoio à pecuária",2008,4929.178577130582,1404.7656000000002,0.0,0.0,843713.8427128744
+Pecuária, inclusive o apoio à pecuária",2008,4929.178577130582,1404.7656000000002,362381.94457487384,0.0,843713.8427128744
 "0280
-Produção florestal; pesca e aquicultura",2008,2542.7115838039613,0.0,0.0,0.0,-34552.3931570911
+Produção florestal; pesca e aquicultura",2008,2542.7115838039613,0.0,288.5938460868805,0.0,-34552.3931570911
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2008,932.2305513045878,0.0,0.0,0.0,0.0
 "0680
@@ -1422,13 +1422,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2008,149.1
 "3500
 Energia elétrica, gás natural e outras utilidades",2008,5911.836881315106,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2008,1371.5607213592887,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2008,499.7448479862148,0.0,0.0,0.0,0.0
 "4180
 Construção",2008,1177.9441578284952,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2008,100.28781716056658,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2008,63.74672994416774,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2008,1696.6353016770552,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2008,1078.4455724725417,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2008,144447.10459683693,0.0,0.0,0.0,0.0
 "5000
@@ -1436,58 +1436,58 @@ Transporte aquaviário",2008,4694.197068379762,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2008,6676.232062300361,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2008,117.79254029723792,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2008,74.87339408079207,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2008,87.44372587267178,0.0,0.0,0.0,0.0
+Alojamento",2008,55.58253969764186,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2008,158.455927603359,0.0,0.0,0.0,0.0
+Alimentação",2008,100.72058113311573,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2008,7.208255753749529,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2008,4.58184000721717,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2008,24.44221822255672,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2008,15.53639842190515,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2008,123.71497359368752,0.0,0.0,0.0,0.0
+Telecomunicações",2008,78.63791669829666,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2008,54.57365386363643,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2008,34.68907862798341,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2008,147.65464373931644,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2008,93.8548765537747,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2008,56.04360719868194,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2008,35.62343656828685,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2008,83.54485282828294,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2008,53.104268516912875,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2008,112.81845546574887,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2008,71.71167761861552,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2008,18.580698584526136,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2008,11.810594829732715,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2008,18.32879562967592,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2008,11.65047578347543,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2008,526.3640993325102,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2008,334.5769311015389,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2008,8.136212016354747,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2008,5.171684107399196,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2008,1681.6414049199454,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2008,612.7265203659159,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2008,475.65935486061784,0.0,0.0,0.0,0.0
+Educação pública",2008,173.31227723732056,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2008,172.27282286094652,0.0,0.0,0.0,0.0
+Educação privada",2008,109.50312237879963,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2008,391.77362595704255,48.60785344412514,0.0,0.0,0.0
+Saúde pública",2008,142.74749057765032,48.60785344412514,0.0,0.0,0.0
 "8692
-Saúde privada",2008,129.24738701006635,61.47649936319111,0.0,0.0,0.0
+Saúde privada",2008,82.15452792764212,61.47649936319111,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2008,68.21227093634789,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2008,43.35829951604069,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2008,208.87684744991606,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2008,132.7700249439121,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2008,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2008,24000.762987148988,51175.485941330255,0.0,0.0,0.0
 "0191
-Agricultura, inclusive o apoio à agricultura e a pós-colheita",2009,10425.555048411306,0.0,0.0,0.0,57567.72064144006
+Agricultura, inclusive o apoio à agricultura e a pós-colheita",2009,10425.555048411306,0.0,67698.4945093008,0.0,57567.72064144006
 "0192
-Pecuária, inclusive o apoio à pecuária",2009,4740.294714979858,1500.5802,0.0,0.0,293230.3964030949
+Pecuária, inclusive o apoio à pecuária",2009,4740.294714979858,1500.5802,369034.4270874455,0.0,293230.3964030949
 "0280
-Produção florestal; pesca e aquicultura",2009,2430.472666786433,0.0,0.0,0.0,-33145.71435479873
+Produção florestal; pesca e aquicultura",2009,2430.472666786433,0.0,276.63791712022925,0.0,-33145.71435479873
 "0580
 Extração de carvão mineral e de minerais não-metálicos",2009,921.546191479383,0.0,0.0,0.0,0.0
 "0680
@@ -1559,13 +1559,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2009,151.6
 "3500
 Energia elétrica, gás natural e outras utilidades",2009,5895.709369730443,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2009,1197.4748226688835,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2009,431.07215457664614,0.0,0.0,0.0,0.0
 "4180
 Construção",2009,1204.5379928167738,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2009,89.53004739868935,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2009,57.30063455351092,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2009,1456.614684288805,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2009,932.2562439627657,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2009,142185.28845173068,0.0,0.0,0.0,0.0
 "5000
@@ -1573,49 +1573,49 @@ Transporte aquaviário",2009,4394.571045861381,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2009,7834.266687117209,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2009,102.42379523158661,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2009,65.55283539629508,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2009,78.01875012582987,0.0,0.0,0.0,0.0
+Alojamento",2009,49.93322375195467,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2009,117.51885597479483,0.0,0.0,0.0,0.0
+Alimentação",2009,75.21391102778509,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2009,6.441267357377102,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2009,4.1225121356512044,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2009,21.80648950512511,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2009,13.956495303345918,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2009,110.55675363259542,0.0,0.0,0.0,0.0
+Telecomunicações",2009,70.75805633290248,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2009,48.76939815293812,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2009,31.213179732965134,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2009,131.95063184968726,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2009,84.45047394037763,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2009,50.047902915489,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2009,32.03144283348175,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2009,74.65932556746083,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2009,47.7831393442923,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2009,102.81567809761749,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2009,65.80364657697304,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2009,16.265390090714916,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2009,10.410104769719997,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2009,13.666387773450554,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2009,8.746702523074102,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2009,470.34652037484886,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2009,301.02915010753406,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2009,7.1966381843509755,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2009,4.605961312395937,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2009,1457.3735778840414,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2009,524.6316301175908,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2009,413.3576533964032,0.0,0.0,0.0,0.0
+Educação pública",2009,148.8022719869785,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2009,153.92984189286133,0.0,0.0,0.0,0.0
+Educação privada",2009,98.51751309707993,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2009,342.9539313955157,50.41356800000548,0.0,0.0,0.0
+Saúde pública",2009,123.45803630150749,50.41356800000548,0.0,0.0,0.0
 "8692
-Saúde privada",2009,114.1820941959882,61.04294048009143,0.0,0.0,0.0
+Saúde privada",2009,73.07833115449307,61.04294048009143,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2009,60.914945391194514,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2009,38.986520460157934,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2009,183.50458734343943,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2009,117.44581404536574,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2009,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2009,24058.440784370992,52683.37905956041,0.0,0.0,0.0
@@ -1696,13 +1696,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2010,97.90
 "3500
 Energia elétrica, gás natural e outras utilidades",2010,9585.986634477249,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2010,909.7417387248324,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2010,314.75250226203,0.0,0.0,0.0,0.0
 "4180
 Construção",2010,930.540167132157,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2010,89.30961882868571,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2010,58.410271458080544,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2010,1155.6284042009931,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2010,755.8040184174168,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2010,159295.48814616352,0.0,0.0,0.0,0.0
 "5000
@@ -1710,49 +1710,49 @@ Transporte aquaviário",2010,4458.817039384105,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2010,9233.950667992896,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2010,72.23201617094107,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2010,47.241178809666856,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2010,72.63694220015596,0.0,0.0,0.0,0.0
+Alojamento",2010,47.50600850659182,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2010,108.36687450269451,0.0,0.0,0.0,0.0
+Alimentação",2010,70.87409665142431,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2010,15.76043871047193,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2010,10.307641163970844,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2010,26.439456586738526,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2010,17.291931783942424,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2010,136.55585832982635,0.0,0.0,0.0,0.0
+Telecomunicações",2010,89.31025413440034,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2010,28.887296783184162,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2010,18.892868079893407,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2010,148.32493143752438,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2010,97.00746261033483,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2010,25.563986026710356,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2010,16.71935658168013,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2010,57.178371627829215,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2010,37.39579512391548,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2010,90.05809978664034,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2010,58.8997929285416,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2010,11.848108612495409,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2010,7.748899271960572,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2010,11.457624549128969,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2010,7.4935149086587955,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2010,316.1114340327552,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2010,206.74318080199643,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2010,5.239642647855708,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2010,3.426830764910697,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2010,1284.1552338369836,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2010,444.2921061417053,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2010,423.3649530322839,0.0,0.0,0.0,0.0
+Educação pública",2010,146.47583227712448,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2010,132.19187283189663,0.0,0.0,0.0,0.0
+Educação privada",2010,86.45612060526553,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2010,280.7983512999626,51.21818063466781,0.0,0.0,0.0
+Saúde pública",2010,97.15063071262301,51.21818063466781,0.0,0.0,0.0
 "8692
-Saúde privada",2010,120.8990958117048,59.6206825706784,0.0,0.0,0.0
+Saúde privada",2010,79.07041926742582,59.6206825706784,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2010,47.39650173048577,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2010,30.99825717038948,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2010,225.97370148534412,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2010,147.79130646011347,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2010,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2010,24316.69699201761,53450.11904970209,0.0,0.0,0.0
@@ -1833,13 +1833,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2011,103.8
 "3500
 Energia elétrica, gás natural e outras utilidades",2011,9163.045851516423,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2011,879.8427944206376,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2011,299.53031041005613,0.0,0.0,0.0,0.0
 "4180
 Construção",2011,1039.0273648247519,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2011,100.86243711823911,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2011,66.52521541190619,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2011,1264.3199806156874,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2011,833.8997298016517,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2011,174822.52134195692,0.0,0.0,0.0,0.0
 "5000
@@ -1847,49 +1847,49 @@ Transporte aquaviário",2011,4281.244391546827,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2011,10521.981686580706,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2011,75.84791968868431,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2011,50.026544469866316,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2011,81.31815497871438,0.0,0.0,0.0,0.0
+Alojamento",2011,53.63451381326478,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2011,135.02298697314504,0.0,0.0,0.0,0.0
+Alimentação",2011,89.05627853724714,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2011,14.694003001546156,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2011,9.691632909832666,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2011,27.251167440771525,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2011,17.973884391649527,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2011,152.82531940283064,0.0,0.0,0.0,0.0
+Telecomunicações",2011,100.79805311216508,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2011,29.64228001932327,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2011,19.550975763889515,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2011,177.68283123974754,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2011,117.19316884406396,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2011,29.278305449975136,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2011,19.31091130260791,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2011,60.65135104818305,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2011,40.00343744196414,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2011,101.39567359905055,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2011,66.87691890792505,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2011,13.013205548262135,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2011,8.583039702706175,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2011,13.004317887026575,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2011,8.577177722814588,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2011,349.4402871328638,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2011,230.47817442543632,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2011,5.9238214288160895,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2011,3.907138354704633,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2011,1556.4491174230748,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2011,529.8715750535631,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2011,444.7244226279089,0.0,0.0,0.0,0.0
+Educação pública",2011,151.40027877864952,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2011,130.38618253185987,0.0,0.0,0.0,0.0
+Educação privada",2011,85.99801003717342,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2011,274.88881007766406,51.98596321955266,0.0,0.0,0.0
+Saúde pública",2011,93.58209345231002,51.98596321955266,0.0,0.0,0.0
 "8692
-Saúde privada",2011,120.0695364862872,59.744168583641766,0.0,0.0,0.0
+Saúde privada",2011,79.19352345010476,59.744168583641766,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2011,52.10312463058727,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2011,34.3653364792275,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2011,221.172258327684,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2011,145.87722197450523,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2011,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2011,23826.60058964854,53726.13327108824,0.0,0.0,0.0
@@ -1970,13 +1970,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2012,104.4
 "3500
 Energia elétrica, gás natural e outras utilidades",2012,12588.340080026066,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2012,722.96993827065,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2012,233.90868802162095,0.0,0.0,0.0,0.0
 "4180
 Construção",2012,943.9108360032685,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2012,93.69175911777461,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2012,63.378857718170046,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2012,1212.1893238022496,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2012,819.9992763949755,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2012,191676.2060627769,0.0,0.0,0.0,0.0
 "5000
@@ -1984,49 +1984,49 @@ Transporte aquaviário",2012,4194.782408406969,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2012,10705.170756811123,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2012,67.08606024763039,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2012,45.381129646230725,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2012,71.23337948225188,0.0,0.0,0.0,0.0
+Alojamento",2012,48.18663098549461,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2012,138.25154807544197,0.0,0.0,0.0,0.0
+Alimentação",2012,93.5218345487108,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2012,11.843034615885257,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2012,8.01135567246656,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2012,25.486940490754645,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2012,17.240931222184244,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2012,130.56315895652784,0.0,0.0,0.0,0.0
+Telecomunicações",2012,88.32093614912955,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2012,28.078724514694013,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2012,18.994173048746518,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2012,146.27749322774284,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2012,98.95107657224976,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2012,28.59148498601352,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2012,19.34103571053526,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2012,57.94495403828101,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2012,39.197524222612174,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2012,91.50436334011238,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2012,61.89916892727531,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2012,12.742147150120996,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2012,8.619570588234318,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2012,12.83264838595162,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2012,8.680791180130958,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2012,361.5160561981656,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2012,244.5516543222924,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2012,4.79557000843423,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2012,3.2440179595733034,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2012,1534.6209347814204,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2012,496.50912225185135,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2012,444.9486064692722,0.0,0.0,0.0,0.0
+Educação pública",2012,143.95805311798975,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2012,123.51366411934124,0.0,0.0,0.0,0.0
+Educação privada",2012,83.55222506420489,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2012,278.08049274418363,50.27525360841624,0.0,0.0,0.0
+Saúde pública",2012,89.96977575276107,50.27525360841624,0.0,0.0,0.0
 "8692
-Saúde privada",2012,98.6093810801115,62.44955084912303,0.0,0.0,0.0
+Saúde privada",2012,66.70543911228083,62.44955084912303,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2012,50.82417192619987,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2012,34.380590048536426,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2012,213.04410850184127,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2012,144.1161140272685,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2012,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2012,23906.305019740263,53934.9253511808,0.0,0.0,0.0
@@ -2107,13 +2107,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2013,112.7
 "3500
 Energia elétrica, gás natural e outras utilidades",2013,15954.540542475102,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2013,657.3298704011781,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2013,210.91470482019741,0.0,0.0,0.0,0.0
 "4180
 Construção",2013,990.057124751688,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2013,85.45424438205136,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2013,58.034895983243125,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2013,1223.4174836564464,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2013,830.8645980256986,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2013,198828.12922843551,0.0,0.0,0.0,0.0
 "5000
@@ -2121,49 +2121,49 @@ Transporte aquaviário",2013,4200.096663653445,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2013,10273.073621962187,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2013,67.45178977763081,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2013,45.80881420151661,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2013,75.53632038744082,0.0,0.0,0.0,0.0
+Alojamento",2013,51.29929505950681,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2013,130.396823884329,0.0,0.0,0.0,0.0
+Alimentação",2013,88.55693670216085,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2013,10.475031344078316,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2013,7.113951552329006,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2013,24.960188362072966,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2013,16.95131641254455,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2013,123.43365059899365,0.0,0.0,0.0,0.0
+Telecomunicações",2013,83.82800790231047,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2013,28.91003237607254,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2013,19.633790386308313,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2013,131.14261063348852,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2013,89.06342595528264,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2013,25.10910451395648,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2013,17.05245045740423,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2013,58.57423950978177,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2013,39.779766608781195,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2013,82.92692346046681,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2013,56.318506026710544,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2013,11.332091700764073,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2013,7.696010512785582,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2013,12.864686999306835,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2013,8.73684832462888,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2013,358.95155070768914,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2013,243.77625779720793,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2013,5.589814420298959,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2013,3.796233888598046,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2013,1506.985997787136,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2013,483.54033675277634,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2013,461.84164043726685,0.0,0.0,0.0,0.0
+Educação pública",2013,148.1892085735456,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2013,131.4923128480578,0.0,0.0,0.0,0.0
+Educação privada",2013,89.30092067300437,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2013,308.9700197888093,53.19685792094815,0.0,0.0,0.0
+Saúde pública",2013,99.13792671900838,53.19685792094815,0.0,0.0,0.0
 "8692
-Saúde privada",2013,89.48267558804697,63.60898528242395,0.0,0.0,0.0
+Saúde privada",2013,60.770741203175945,63.60898528242395,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2013,52.18476497257169,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2013,35.44045622301817,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2013,205.441188290845,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2013,139.52212765264693,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2013,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2013,23599.85344499971,56712.1888589786,0.0,0.0,0.0
@@ -2244,13 +2244,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2014,125.1
 "3500
 Energia elétrica, gás natural e outras utilidades",2014,18601.402249051796,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2014,670.1093582876937,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2014,209.72259479908556,0.0,0.0,0.0,0.0
 "4180
 Construção",2014,1046.111521521355,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2014,83.87148358347366,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2014,57.62241699571335,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2014,1280.4562414966683,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2014,879.7147771787277,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2014,203531.96808167247,0.0,0.0,0.0,0.0
 "5000
@@ -2258,49 +2258,49 @@ Transporte aquaviário",2014,4362.413203904371,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2014,10367.871236769495,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2014,70.36256713536247,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2014,48.34135526322844,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2014,78.58762771323201,0.0,0.0,0.0,0.0
+Alojamento",2014,53.99223742464033,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2014,135.8552711955414,0.0,0.0,0.0,0.0
+Alimentação",2014,93.33695737126236,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2014,11.01032384426779,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2014,7.564447947088143,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2014,25.650227486545692,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2014,17.622534395658167,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2014,125.07650053118233,0.0,0.0,0.0,0.0
+Telecomunicações",2014,85.93159393441904,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2014,32.13929889617109,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2014,22.080735952427506,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2014,133.25260952921315,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2014,91.54884478008988,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2014,25.794671356206027,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2014,17.721771997455914,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2014,60.14987173767033,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2014,41.32490381021068,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2014,77.96703199768791,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2014,53.565868132254494,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2014,12.203589981792893,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2014,8.384260307923551,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2014,13.485138216991944,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2014,9.264725320030612,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2014,369.2262247245285,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2014,253.67033677966305,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2014,5.815487695499943,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2014,3.9954277986513116,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2014,1522.2650861795528,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2014,476.41982595408916,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2014,505.4324198455842,0.0,0.0,0.0,0.0
+Educação pública",2014,158.18402962832252,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2014,139.09845798640785,0.0,0.0,0.0,0.0
+Educação privada",2014,95.56513140221654,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2014,357.23322451353147,52.30906935883871,0.0,0.0,0.0
+Saúde pública",2014,111.80246607040708,52.30906935883871,0.0,0.0,0.0
 "8692
-Saúde privada",2014,101.73898760767463,65.46216692561049,0.0,0.0,0.0
+Saúde privada",2014,69.8979691090894,65.46216692561049,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2014,59.15818775607035,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2014,40.643584898534925,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2014,214.1402883541743,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2014,147.1212915751726,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2014,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2014,23972.218875913306,57643.65376071734,0.0,0.0,0.0
@@ -2381,13 +2381,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2015,133.2
 "3500
 Energia elétrica, gás natural e outras utilidades",2015,17441.41919308256,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2015,785.9155091803199,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2015,248.32159923002322,0.0,0.0,0.0,0.0
 "4180
 Construção",2015,869.1496291766712,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2015,76.7720678490139,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2015,52.51480044332778,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2015,1224.6124138788803,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2015,837.6780557969217,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2015,189930.11584379288,0.0,0.0,0.0,0.0
 "5000
@@ -2395,49 +2395,49 @@ Transporte aquaviário",2015,4230.878241351879,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2015,10494.761958491292,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2015,67.66048251284577,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2015,46.28215491146242,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2015,73.10777192641339,0.0,0.0,0.0,0.0
+Alojamento",2015,50.008292874466754,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2015,120.77178501064614,0.0,0.0,0.0,0.0
+Alimentação",2015,82.6121578682999,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2015,9.027521842297904,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2015,6.17514313901793,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2015,21.956159859413503,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2015,15.018787246769646,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2015,108.64855755922429,0.0,0.0,0.0,0.0
+Telecomunicações",2015,74.3194429763085,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2015,31.195005286158192,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2015,21.338483166207883,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2015,135.89057097257952,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2015,92.95394036786446,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2015,24.826440157354458,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2015,16.98216014118258,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2015,60.09311805980815,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2015,41.105810893807984,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2015,54.72833455264331,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2015,37.43610987892206,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2015,10.236655799209181,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2015,7.002233384669852,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2015,11.723342402763109,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2015,8.019179423702539,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2015,376.9825140796181,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2015,257.8693273763296,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2015,5.538278299624314,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2015,3.7883775682110823,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2015,1370.854473313992,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2015,433.14169417524204,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2015,426.0015733717085,0.0,0.0,0.0,0.0
+Educação pública",2015,134.6014816331833,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2015,131.36000729997244,0.0,0.0,0.0,0.0
+Educação privada",2015,89.85487512410073,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2015,303.31330962193834,51.87845787180991,0.0,0.0,0.0
+Saúde pública",2015,95.83631476063636,51.87845787180991,0.0,0.0,0.0
 "8692
-Saúde privada",2015,100.9736124962974,66.58176434323188,0.0,0.0,0.0
+Saúde privada",2015,69.06951002952665,66.58176434323188,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2015,51.66071699156467,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2015,35.337751340849124,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2015,188.31950865163063,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2015,128.8171817369245,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2015,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2015,24200.80583768975,58502.52179753298,0.0,0.0,0.0
@@ -2518,13 +2518,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2016,131.2
 "3500
 Energia elétrica, gás natural e outras utilidades",2016,13269.467167608427,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2016,813.3718356485435,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2016,260.57343017939803,0.0,0.0,0.0,0.0
 "4180
 Construção",2016,720.1609443219588,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2016,78.31328768618191,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2016,53.22468600778302,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2016,1207.5118251824683,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2016,820.6709186257542,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2016,191683.31148936955,0.0,0.0,0.0,0.0
 "5000
@@ -2532,49 +2532,49 @@ Transporte aquaviário",2016,3863.005015001022,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2016,9815.023566958196,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2016,66.27041847357859,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2016,45.039894493957874,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2016,73.758792984843,0.0,0.0,0.0,0.0
+Alojamento",2016,50.12927835009063,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2016,117.86104833027316,0.0,0.0,0.0,0.0
+Alimentação",2016,80.10284685103059,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2016,7.630928700000244,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2016,5.186269099476936,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2016,21.781425071774773,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2016,14.803484114890773,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2016,100.11291169090411,0.0,0.0,0.0,0.0
+Telecomunicações",2016,68.04053880901583,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2016,30.67471713064633,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2016,20.847703319500518,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2016,130.58374606031362,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2016,88.74967565697817,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2016,29.599663528225165,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2016,20.117056042122858,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2016,60.33203070803738,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2016,41.00394052558477,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2016,58.12071140443261,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2016,39.501043902613844,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2016,12.420501927816906,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2016,8.441445056121212,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2016,11.306746860714094,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2016,7.684494792793371,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2016,406.1520782415083,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2016,276.03638506964506,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2016,5.715742421313225,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2016,3.884635732505968,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2016,1357.2344024618017,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2016,434.8063312580357,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2016,429.69638129628026,0.0,0.0,0.0,0.0
+Educação pública",2016,137.65839324983367,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2016,123.53349697035492,0.0,0.0,0.0,0.0
+Educação privada",2016,83.95805848476331,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2016,259.36285147175533,51.415820814799645,0.0,0.0,0.0
+Saúde pública",2016,83.09000251430825,51.415820814799645,0.0,0.0,0.0
 "8692
-Saúde privada",2016,106.99440162960104,68.25029068446204,0.0,0.0,0.0
+Saúde privada",2016,72.7174608496351,68.25029068446204,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2016,52.21244565462926,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2016,35.48556200069251,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2016,158.77855022076395,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2016,107.91193589184874,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2016,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2016,24125.914297765354,58774.70281106978,0.0,0.0,0.0
@@ -2655,13 +2655,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2017,126.7
 "3500
 Energia elétrica, gás natural e outras utilidades",2017,13867.149311221961,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2017,904.8397151992922,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2017,287.82243016406284,0.0,0.0,0.0,0.0
 "4180
 Construção",2017,681.5582126993196,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2017,78.52508739277833,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2017,53.54687180101807,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2017,1214.289033503894,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2017,828.0331976095952,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2017,190733.24287473792,0.0,0.0,0.0,0.0
 "5000
@@ -2669,49 +2669,49 @@ Transporte aquaviário",2017,4019.608050223679,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2017,9815.2037505348,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2017,68.72024409954177,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2017,46.86087240536131,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2017,74.05222736668415,0.0,0.0,0.0,0.0
+Alojamento",2017,50.49679353490728,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2017,130.89459613118416,0.0,0.0,0.0,0.0
+Alimentação",2017,89.2580497672537,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2017,6.778924198110467,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2017,4.622601477275443,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2017,20.826622697651377,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2017,14.201837051911035,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2017,100.70634243766031,0.0,0.0,0.0,0.0
+Telecomunicações",2017,68.67244325480051,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2017,34.15542481438175,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2017,23.290851555463668,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2017,121.83275243068131,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2017,83.0787076102106,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2017,36.129513996001464,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2017,24.6369984219196,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2017,61.00440566073856,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2017,41.59938177303176,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2017,46.97208794134377,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2017,32.030634472781195,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2017,11.014704897155095,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2017,7.511013494373416,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2017,11.27707049204705,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2017,7.689922647373217,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2017,386.1626861698479,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2017,263.3273586471078,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2017,5.786945038656801,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2017,3.946163123060608,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2017,1270.355422930512,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2017,404.0901154735718,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2017,407.321762322954,0.0,0.0,0.0,0.0
+Educação pública",2017,129.5658640101578,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2017,120.67785694392505,0.0,0.0,0.0,0.0
+Educação privada",2017,82.29117533707111,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2017,253.4799008915529,31.137056010361555,0.0,0.0,0.0
+Saúde pública",2017,80.62997218936574,31.137056010361555,0.0,0.0,0.0
 "8692
-Saúde privada",2017,107.0695221636413,43.95676398963844,0.0,0.0,0.0
+Saúde privada",2017,73.01154532201168,43.95676398963844,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2017,52.622003499347706,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2017,35.88335612029429,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2017,146.49874946903884,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2017,99.89864408033148,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2017,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2017,24650.270616399936,60053.38238895194,0.0,0.0,0.0
@@ -2792,13 +2792,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2018,127.2
 "3500
 Energia elétrica, gás natural e outras utilidades",2018,11334.921494209644,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2018,903.8932218989389,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2018,294.36440505264625,0.0,0.0,0.0,0.0
 "4180
 Construção",2018,640.3642417456639,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2018,78.83638786921142,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2018,53.16230839899857,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2018,1207.37117102865,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2018,814.1752848033826,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2018,180140.71776799645,0.0,0.0,0.0,0.0
 "5000
@@ -2806,49 +2806,49 @@ Transporte aquaviário",2018,4175.135707176914,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2018,10037.678200674827,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2018,68.07850563118635,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2018,45.90786830203731,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2018,72.87534363547124,0.0,0.0,0.0,0.0
+Alojamento",2018,49.14255457085635,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2018,136.98941074546704,0.0,0.0,0.0,0.0
+Alimentação",2018,92.37705453387174,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2018,5.957402987186713,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2018,4.017298400167092,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2018,20.4438776007571,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2018,13.786067008624093,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2018,92.93065462957038,0.0,0.0,0.0,0.0
+Telecomunicações",2018,62.66659666516076,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2018,34.88273655844931,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2018,23.522726609415546,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2018,118.46893677160855,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2018,79.88801012550392,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2018,35.935639664925525,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2018,24.232738333362278,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2018,62.36846424847746,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2018,42.057375031566636,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2018,51.2292387733984,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2018,34.54578100705901,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2018,11.629929386262782,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2018,7.842493921928372,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2018,12.238003732269691,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2018,8.25254106875565,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2018,388.96928242049927,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2018,262.2964535625495,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2018,5.430351358095408,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2018,3.661887884728077,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2018,1276.380243193916,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2018,415.6695744652205,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2018,401.68361489914804,0.0,0.0,0.0,0.0
+Educação pública",2018,130.81341407868655,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2018,117.00073084823835,0.0,0.0,0.0,0.0
+Educação privada",2018,78.8979442663104,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2018,254.47382445446158,23.79571904129568,0.0,0.0,0.0
+Saúde pública",2018,82.87266031228668,23.79571904129568,0.0,0.0,0.0
 "8692
-Saúde privada",2018,106.25471346150424,36.69529095870431,0.0,0.0,0.0
+Saúde privada",2018,71.65150507984856,36.69529095870431,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2018,52.58493967744342,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2018,35.45998054746933,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2018,155.9551834177919,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2018,105.16638041602823,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2018,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2018,25231.113350993557,62219.3179699954,0.0,0.0,0.0
@@ -2929,13 +2929,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2019,117.2
 "3500
 Energia elétrica, gás natural e outras utilidades",2019,11619.484160925507,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2019,875.4111005620061,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2019,280.20304994597115,0.0,0.0,0.0,0.0
 "4180
 Construção",2019,621.6362573543254,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2019,80.5567812654457,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2019,54.772031917491134,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2019,1191.9433817028118,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2019,810.4241495367736,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2019,182034.8331007679,0.0,0.0,0.0,0.0
 "5000
@@ -2943,49 +2943,49 @@ Transporte aquaviário",2019,4201.032985517459,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2019,9026.03762325926,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2019,63.868711238016566,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2019,43.42550726959354,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2019,78.96052187087649,0.0,0.0,0.0,0.0
+Alojamento",2019,53.68670590105256,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2019,137.57255865117452,0.0,0.0,0.0,0.0
+Alimentação",2019,93.53810386966389,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2019,5.598161195275744,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2019,3.8062923921518097,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2019,20.418655417209845,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2019,13.883018023504237,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2019,88.2745223676933,0.0,0.0,0.0,0.0
+Telecomunicações",2019,60.01946553317061,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2019,41.92349995734092,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2019,28.504555937879434,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2019,108.79623810919016,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2019,73.97255615990703,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2019,42.62003022423828,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2019,28.978139631402264,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2019,65.8850117130637,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2019,44.79642691459063,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2019,51.954014557703076,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2019,35.32448664029387,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2019,13.68655070316081,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2019,9.30573665156403,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2019,12.619367167170715,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2019,8.580139007556088,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2019,384.32803442621764,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2019,261.3116740478417,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2019,5.647696605241485,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2019,3.839972425205133,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2019,1273.0562104632768,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2019,407.48196212666596,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2019,420.2625740915476,0.0,0.0,0.0,0.0
+Educação pública",2019,134.51834796588278,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2019,129.41930825849988,0.0,0.0,0.0,0.0
+Educação privada",2019,87.99455950600114,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2019,279.83651143480256,18.057246214185238,0.0,0.0,0.0
+Saúde pública",2019,89.57053884732913,18.057246214185238,0.0,0.0,0.0
 "8692
-Saúde privada",2019,101.67581193495477,27.83095378581476,0.0,0.0,0.0
+Saúde privada",2019,69.13124791055859,27.83095378581476,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2019,60.98493019608268,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2019,41.464771689166234,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2019,161.8326089902656,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2019,110.03295670041626,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2019,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2019,24994.894538342476,63031.25658758344,0.0,0.0,0.0
@@ -3066,13 +3066,13 @@ Manutenção, reparação e instalação de máquinas e equipamentos",2020,87.24
 "3500
 Energia elétrica, gás natural e outras utilidades",2020,11281.649756800614,0.0,0.0,0.0,0.0
 "3680
-Água, esgoto e gestão de resíduos",2020,831.2478478612875,0.0,0.0,0.0,0.0
+Água, esgoto e gestão de resíduos",2020,272.867102908849,0.0,0.0,0.0,0.0
 "4180
 Construção",2020,517.5627163960249,0.0,0.0,0.0,0.0
 "4500
-Comércio e reparação de veículos automotores e motocicletas",2020,65.69928199328116,0.0,0.0,0.0,0.0
+Comércio e reparação de veículos automotores e motocicletas",2020,44.13270255873241,0.0,0.0,0.0,0.0
 "4680
-Comércio por atacado e a varejo, exceto veículos automotores",2020,1077.4708005595905,0.0,0.0,0.0,0.0
+Comércio por atacado e a varejo, exceto veículos automotores",2020,723.7780522727578,0.0,0.0,0.0,0.0
 "4900
 Transporte terrestre",2020,175908.2850220092,0.0,0.0,0.0,0.0
 "5000
@@ -3080,49 +3080,49 @@ Transporte aquaviário",2020,3588.8178127730475,0.0,0.0,0.0,0.0
 "5100
 Transporte aéreo",2020,5191.228801625782,0.0,0.0,0.0,0.0
 "5280
-Armazenamento, atividades auxiliares dos transportes e correio",2020,57.56279567034571,0.0,0.0,0.0,0.0
+Armazenamento, atividades auxiliares dos transportes e correio",2020,38.66711572324726,0.0,0.0,0.0,0.0
 "5500
-Alojamento",2020,57.58462541221027,0.0,0.0,0.0,0.0
+Alojamento",2020,38.681779589813424,0.0,0.0,0.0,0.0
 "5600
-Alimentação",2020,98.69795462078939,0.0,0.0,0.0,0.0
+Alimentação",2020,66.29916404383265,0.0,0.0,0.0,0.0
 "5800
-Edição e edição integrada à impressão",2020,4.748796561811265,0.0,0.0,0.0,0.0
+Edição e edição integrada à impressão",2020,3.189946979873851,0.0,0.0,0.0,0.0
 "5980
-Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2020,16.093152199078833,0.0,0.0,0.0,0.0
+Atividades de televisão, rádio, cinema e  gravação/edição de som e imagem",2020,10.810381448415066,0.0,0.0,0.0,0.0
 "6100
-Telecomunicações",2020,81.53266238019246,0.0,0.0,0.0,0.0
+Telecomunicações",2020,54.768585416421566,0.0,0.0,0.0,0.0
 "6280
-Desenvolvimento de sistemas e outros serviços de informação",2020,35.96681970941078,0.0,0.0,0.0,0.0
+Desenvolvimento de sistemas e outros serviços de informação",2020,24.160278591496773,0.0,0.0,0.0,0.0
 "6480
-Intermediação financeira, seguros e previdência complementar",2020,97.31193670665837,0.0,0.0,0.0,0.0
+Intermediação financeira, seguros e previdência complementar",2020,65.36812317870303,0.0,0.0,0.0,0.0
 "6800
-Atividades imobiliárias",2020,36.92551260060122,0.0,0.0,0.0,0.0
+Atividades imobiliárias",2020,24.804269011611357,0.0,0.0,0.0,0.0
 "6980
-Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2020,55.060316592184385,0.0,0.0,0.0,0.0
+Atividades jurídicas, contábeis, consultoria e sedes de empresas ",2020,36.98610549809383,0.0,0.0,0.0,0.0
 "7180
-Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2020,39.86631664658041,0.0,0.0,0.0,0.0
+Serviços de arquitetura, engenharia, testes/análises técnicas e P & D",2020,26.779718762462345,0.0,0.0,0.0,0.0
 "7380
-Outras atividades profissionais, científicas e técnicas",2020,12.16409050501053,0.0,0.0,0.0,0.0
+Outras atividades profissionais, científicas e técnicas",2020,8.171081507557892,0.0,0.0,0.0,0.0
 "7700
-Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2020,11.039092623899357,0.0,0.0,0.0,0.0
+Aluguéis não-imobiliários e gestão de ativos de propriedade intelectual",2020,7.415377710500245,0.0,0.0,0.0,0.0
 "7880
-Outras atividades administrativas e serviços complementares",2020,346.5501493391962,0.0,0.0,0.0,0.0
+Outras atividades administrativas e serviços complementares",2020,232.79089509737912,0.0,0.0,0.0,0.0
 "8000
-Atividades de vigilância, segurança e investigação",2020,4.971819520529872,0.0,0.0,0.0,0.0
+Atividades de vigilância, segurança e investigação",2020,3.3397599702487426,0.0,0.0,0.0,0.0
 "8400
-Administração pública, defesa e seguridade social",2020,1070.7475030700457,0.0,0.0,0.0,0.0
+Administração pública, defesa e seguridade social",2020,351.48574502939675,0.0,0.0,0.0,0.0
 "8591
-Educação pública",2020,307.554783105592,0.0,0.0,0.0,0.0
+Educação pública",2020,100.95855630508234,0.0,0.0,0.0,0.0
 "8592
-Educação privada",2020,113.42788700311888,0.0,0.0,0.0,0.0
+Educação privada",2020,76.19381897485714,0.0,0.0,0.0,0.0
 "8691
-Saúde pública",2020,265.902203085317,13.417341862127044,0.0,0.0,0.0
+Saúde pública",2020,87.2855959863832,13.417341862127044,0.0,0.0,0.0
 "8692
-Saúde privada",2020,81.23397761996962,17.86804813787296,0.0,0.0,0.0
+Saúde privada",2020,54.567947520818855,17.86804813787296,0.0,0.0,0.0
 "9080
-Atividades artísticas, criativas e de espetáculos",2020,44.906336961327476,0.0,0.0,0.0,0.0
+Atividades artísticas, criativas e de espetáculos",2020,30.165291796022256,0.0,0.0,0.0,0.0
 "9480
-Organizações associativas e outros serviços pessoais",2020,136.6380118964557,0.0,0.0,0.0,0.0
+Organizações associativas e outros serviços pessoais",2020,91.78494123968522,0.0,0.0,0.0,0.0
 "9700
 Serviços domésticos",2020,0.0,0.0,0.0,0.0,0.0
 RESIDENCIAL,2020,25841.66321852296,65263.65054808597,0.0,0.0,0.0

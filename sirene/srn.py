@@ -56,8 +56,8 @@ scr_67.loc[scr_67['cliente']=='PF', 'atividade_tru68_ibge'] = 'RESIDENCIAL'
 
 
 ''' 2) import data about emission '''
-#co2e = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/emissoes_68_setores_%2B_hausehold_Gg_CO2e_GWP_SAR_versao1.csv')
-with resources.open_binary('sirene.data', 'emissions_68_sectors_plus_hausehold_Gg_CO2e_GWP_SAR_v1.csv') as f:
+#co2e = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/emissoes_68_setores_%2B_hausehold_Gg_CO2e_GWP_SAR_versao1.csv')(the vost recent version is v2)
+with resources.open_binary('sirene.data', 'emissions_68_sectors_plus_hausehold_Gg_CO2e_GWP_SAR_v2.csv') as f:
   data_ = f.read()
   bytes_io = io.BytesIO(data_)
 co2e = pd.read_csv(bytes_io)
