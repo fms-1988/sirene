@@ -36,23 +36,6 @@ def matrix_to_df(matrix,index_x,index_y):
     
 ''' 1) import data about credit '''
 #scr = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/dados_publicos_scr_2012_12_a_2022_12_68TRU.csv')
-with resources.open_binary('sirene.data', 'public_data_scr_and_sicor_2012_12_a_2022_12_68TRU.csv') as f:
-  data_ = f.read()
-  bytes_io = io.BytesIO(data_)
-scr = pd.read_csv(bytes_io)
-
-
-# 1.1) adjust (68 to 67 sectors).
-# Saude = saude publica (8691) + saude privada (8692)
-scr.loc[scr['atividade_tru68_ibge'] == '8691', 'atividade_tru68_ibge'] = '8691 + 8692'
-scr.loc[scr['atividade_tru68_ibge'] == '8692', 'atividade_tru68_ibge'] = '8691 + 8692'
-
-# educacao = educação publica (8591) + educação privada (8592)
-scr.loc[scr['atividade_tru68_ibge'] == '8591', 'atividade_tru68_ibge'] = '8591 + 8592'
-scr.loc[scr['atividade_tru68_ibge'] == '8592', 'atividade_tru68_ibge'] = '8591 + 8592'
-
-scr_67 = scr.groupby(['ano','cliente','atividade_tru68_ibge'])['sum_carteira_ativa'].sum().reset_index()
-scr_67.loc[scr_67['cliente']=='PF', 'atividade_tru68_ibge'] = 'RESIDENCIAL'
 
 
 
@@ -102,13 +85,35 @@ class coef:
         self.reference_year = reference_year #base_year
         self.defl_df = defl.deflators_df(self.reference_year) #dataframe
         self.defl_num = self.defl_df[self.defl_df['year']==self.year]['def_cum_pro'].values[0]
-        scr_67['sum_carteira_ativa'] = scr_67['sum_carteira_ativa'] / self.defl_num #trasnform nominal to real
+        #scr_67['sum_carteira_ativa'] = scr_67['sum_carteira_ativa'] #/ self.defl_num #trasnform nominal to real
+        self.import_scr_data()
         self.init()
+        
+    def import_scr_data(self):
+        with resources.open_binary('sirene.data','public_data_scr_and_sicor_2012_12_a_2022_12_68TRU.csv') as f:
+          data_ = f.read()
+          bytes_io = io.BytesIO(data_)
+        scr = pd.read_csv(bytes_io)
+
+        # 1.1) adjust (68 to 67 sectors).
+        # Saude = saude publica (8691) + saude privada (8692)
+        scr.loc[scr['atividade_tru68_ibge'] == '8691', 'atividade_tru68_ibge'] = '8691 + 8692'
+        scr.loc[scr['atividade_tru68_ibge'] == '8692', 'atividade_tru68_ibge'] = '8691 + 8692'
+
+        # educacao = educação publica (8591) + educação privada (8592)
+        scr.loc[scr['atividade_tru68_ibge'] == '8591', 'atividade_tru68_ibge'] = '8591 + 8592'
+        scr.loc[scr['atividade_tru68_ibge'] == '8592', 'atividade_tru68_ibge'] = '8591 + 8592'
+
+        scr_67 = scr.groupby(['ano','cliente','atividade_tru68_ibge'])['sum_carteira_ativa'].sum().reset_index()
+        scr_67.loc[scr_67['cliente']=='PF', 'atividade_tru68_ibge'] = 'RESIDENCIAL'
+        scr_67['sum_carteira_ativa'] = scr_67['sum_carteira_ativa'] / self.defl_num
+        self.scr_67 = scr_67
 
     def init(self):
         if self.ajust_sicor:
             ajust_sicor_func(self)
         else:
+            scr_67 = self.scr_67.copy()
             self.scr_67 = scr_67[scr_67['cliente']!='PF_sicor']
           
         if self.household:
@@ -118,9 +123,12 @@ class coef:
             leontief_inverse_matrix_66_no_household(self)
             total_production_by_activity_66_no_household(self)
         coefficients(self)
+        
+
 
 def ajust_sicor_func(self):
     # remover valores do sicor da atividade 'Residencial'
+    scr_67 = self.scr_67.copy()
     scr_PF = scr_67.loc[scr_67['cliente'] == 'PF']
     sicor_PF = scr_67.loc[scr_67['cliente'] == 'PF_sicor']
     sicor_PF = sicor_PF.groupby('ano')['sum_carteira_ativa'].sum().reset_index()
