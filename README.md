@@ -731,11 +731,6 @@ plt.grid(True)
 plt.show()
 ```
 
-    /home/felipe/.local/lib/python3.10/site-packages/matplotlib/projections/__init__.py:63: UserWarning: Unable to import Axes3D. This may be due to multiple versions of Matplotlib being installed (e.g. as a system package and as a pip package). As a result, the 3D projection is not available.
-      warnings.warn("Unable to import Axes3D. This may be due to multiple versions of "
-
-
-
 ![Alt text](https://raw.githubusercontent.com/fms-1988/datas/main/sirene_emission_chart.png)
     
 ---
