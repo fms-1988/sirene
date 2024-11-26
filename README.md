@@ -736,8 +736,7 @@ plt.show()
 
 
 
-    
-![png](sirene_apresentacao_v3_files/sirene_apresentacao_v3_13_1.png)
+![Alt text](https://raw.githubusercontent.com/fms-1988/datas/main/sirene_emission_chart.png)
     
 ---
 
