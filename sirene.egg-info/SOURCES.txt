@@ -21,4 +21,5 @@ sirene/MCTI/sexta_edicao/estim_6a_ed_1990-2020_total-brasil-1.xlsx
 sirene/data/emissions_68_sectors_plus_hausehold_Gg_CO2e_GWP_SAR_v2.csv
 sirene/data/public_data_scr_2012_12_a_2022_12_68TRU.csv
 sirene/data/public_data_scr_and_sicor_2012_12_a_2022_12_68TRU.csv
+sirene/data/public_data_scr_and_sicor_2012_to_2023_68TRU.csv
 sirene/mapbiomas/coeficiente_desmatamento_por_bioma_atividade.csv

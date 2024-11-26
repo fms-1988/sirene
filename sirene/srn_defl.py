@@ -7,7 +7,7 @@ from importlib import resources
 import io
 
 
-''' 0) functions '''
+# 0) functions
 def agrega_col(matrix,col1,col2):
     # Sum col and col2
     summed_column = matrix[:, col1] + matrix[:, col2]
@@ -34,13 +34,11 @@ def matrix_to_df(matrix,index_x,index_y):
     df = df.rename(columns={df.columns[i]:index_x[i] for i in  range(len(index_x))})
     return df
     
-''' 1) import data about credit '''
-#scr = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/dados_publicos_scr_2012_12_a_2022_12_68TRU.csv')
+# 1) import data about credit
+# scr = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/dados_publicos_scr_2012_12_a_2022_12_68TRU.csv')
 
-
-
-''' 2) import data about emission '''
-#co2e = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/emissoes_68_setores_%2B_hausehold_Gg_CO2e_GWP_SAR_versao1.csv') (the most recent version is v2
+# 2) import data about emission 
+# co2e = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/emissoes_68_setores_%2B_hausehold_Gg_CO2e_GWP_SAR_versao1.csv') (the most recent version is v2
 with resources.open_binary('sirene.data', 'emissions_68_sectors_plus_hausehold_Gg_CO2e_GWP_SAR_v2.csv') as f:
   data_ = f.read()
   bytes_io = io.BytesIO(data_)
@@ -72,7 +70,7 @@ co2e_67 = co2e.groupby(['year','atividade_tru68_ibge'])[['energia_Gg_CO2e_GWP_SA
 							 
 							 
 
-''' 3) Estimate 67 or 66 activities Leontief matrix '''
+# 3) Estimate 67 or 66 activities Leontief matrix
 # (68 setores) + (household) - (educação publica + educação privada) + educação - (saúde publica + saúde privada) + saúde = 67 setores
 # (68 setores) - (educação publica + educação privada) + educação - (saúde publica + saúde privada) + saúde = 66 setores
 
@@ -90,7 +88,7 @@ class coef:
         self.init()
         
     def import_scr_data(self):
-        with resources.open_binary('sirene.data','public_data_scr_and_sicor_2012_12_a_2022_12_68TRU.csv') as f:
+        with resources.open_binary('sirene.data','public_data_scr_and_sicor_2012_to_2023_68TRU.csv') as f:
           data_ = f.read()
           bytes_io = io.BytesIO(data_)
         scr = pd.read_csv(bytes_io)

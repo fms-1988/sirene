@@ -35,7 +35,7 @@ def matrix_to_df(matrix,index_x,index_y):
     
 ''' 1) import data about credit '''
 #scr = pd.read_csv('https://raw.githubusercontent.com/fms-1988/datas/main/dados_publicos_scr_2012_12_a_2022_12_68TRU.csv')
-with resources.open_binary('sirene.data', 'public_data_scr_and_sicor_2012_12_a_2022_12_68TRU.csv') as f:
+with resources.open_binary('sirene.data', 'public_data_scr_and_sicor_2012_to_2023_68TRU.csv') as f:
   data_ = f.read()
   bytes_io = io.BytesIO(data_)
 scr = pd.read_csv(bytes_io)
@@ -339,7 +339,8 @@ def coefficients(self):
     result.rename(columns={'sum_carteira_ativa': 'active_loan_portfolio_mi_brl'}, inplace=True)
     self.result = result
 
-
+#aude pública e privada estão agregadas (8691 + 8692)
+#educação pública e privada estão agregadas (8591 + 8592)
 atividades_tru67 = ['0191\nAgricultura, inclusive o apoio à agricultura e a pós-colheita',
        '0192\nPecuária, inclusive o apoio à pecuária',
        '0280\nProdução florestal; pesca e aquicultura',
